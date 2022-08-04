@@ -1,0 +1,15 @@
+Ingenieria en Desarrollo y Gestion de Software
+IDGS
+idgs.jpg
+
+Tecnologias de la Informacion Area Desarrollo de Software Multiplataforma
+TIADSM
+tiadsm.jpg
+
+Tecnologias de la Informacion Area Entornos Virtuales y Negocios Digitales
+TIAEVND
+tiaevnd.jpg
+
+Tecnologias de la Informacion Area Infraestructura de Redes Digitales
+TIAIRD
+tiaird.jpg
